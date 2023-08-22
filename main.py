@@ -17,5 +17,6 @@ if __name__ == '__main__':
 
 plotter = Plotter()
 plotter.smith()
+plotter.plot_smith()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
