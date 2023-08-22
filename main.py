@@ -18,5 +18,6 @@ if __name__ == '__main__':
 plotter = Plotter()
 plotter.smith()
 plotter.plot_smith()
+plotter.save_all_figs()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
